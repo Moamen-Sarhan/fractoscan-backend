@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-limiter
+ultralytics
+opencv-python-headless
+reportlab
+pyjwt
+bcrypt
+python-dotenv
+requests
+waitress
